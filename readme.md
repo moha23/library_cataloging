@@ -1,8 +1,4 @@
-This is our submission for Hackathon organised as part of CS-671 Deep Learning and its Applications course offered at IIT Mandi.
-
-## Group name : MRP 
-
-(Mohana, Rajneesh, Preethi)
+This was a submission for a Hackathon organised as part of CS-671 Deep Learning and its Applications offered at IIT Mandi, along with my group members Preethi Srinivasan and Rajneesh Upadhyay.
 
 ## Problem Statement: Automated Library Cataloging. 
 
