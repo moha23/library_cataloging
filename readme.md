@@ -1,5 +1,3 @@
-This was a submission for a Hackathon organised as part of CS-671 Deep Learning and its Applications offered at IIT Mandi, along with my group members Preethi Srinivasan and Rajneesh Upadhyay.
-
 ## Problem Statement: Automated Library Cataloging. 
 
 Catalog information about all books in the library from the images of the books.
@@ -46,3 +44,6 @@ Main file to be run is library_catalog_main.py to which we need to provide the p
 - imageio
 - pytesseract
 - tesseract
+
+
+This was a submission for a Hackathon organised as part of CS-671 Deep Learning and its Applications offered at IIT Mandi, along with my group members Preethi Srinivasan and Rajneesh Upadhyay.
