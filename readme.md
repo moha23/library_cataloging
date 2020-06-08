@@ -18,16 +18,16 @@ We have SSD 512 trained on MS COCO dataset in which one of the 80 categories is 
 
 [“Area”, “ISBN Number”, “Author Name”, “Review”, “Cost”].
 
-## Architecture :
+## Architecture:
 
 ![Architecture](https://i.ibb.co/s2jYDCW/reallyoutofnames.jpg)
 
 
-## Some early attempts and descriptions :
+## Some early attempts and descriptions:
 
 https://docs.google.com/document/d/e/2PACX-1vQCQ6BUoEp1tHXESG443eILrcmkWYlr9mrw0ekMwg37D25eFJebwuI_zK7tO2kzE6OYpF7mf5jUtfLn/pub
 
-## Running the code :
+## Running the code:
 
 Main file to be run is library_catalog_main.py to which we need to provide the path of the image we want to work on. Rest of the pipeline is automated.
 
